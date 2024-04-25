@@ -34,7 +34,7 @@ Feel free to fork this repository, make enhancements, and submit pull requests. 
 Distributed under the MIT License. See `LICENSE` for more information.
 
 ## Contact :phone:
-For further details and support, please reach out to us via [GitHub Issues](https://github.com/hiibrarahmad/level-converter/issues) or email.
+For further details and support, please reach out to us via [GitHub Issues](https://github.com/hiibrarahmad/Level_Converter/issues) or email.
 
 ---
 
