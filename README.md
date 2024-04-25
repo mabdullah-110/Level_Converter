@@ -1,7 +1,6 @@
 # Bi-Directional Logic Level Converter Repository :electric_plug:
 
 
-[![License](https://img.shields.io/github/license/hiibrarahmad/Level_Converter?style=for-the-badge)](LICENSE)
 [![Latest Release](https://img.shields.io/github/v/release/hiibrarahmad/Level_Converter?style=for-the-badge)](https://github.com/hiibrarahmad/Level_Converter/releases)
 [![Contributors](https://img.shields.io/github/contributors/hiibrarahmad/Level_Converter?style=for-the-badge)](https://github.com/hiibrarahmad/Level_Converter/graphs/contributors)
 [![Documentation](https://img.shields.io/badge/documentation-yes-brightgreen?style=for-the-badge)](https://github.com/hiibrarahmad/Level_Converter/wiki)
@@ -10,6 +9,7 @@
 [![Forks](https://img.shields.io/github/forks/hiibrarahmad/Level_Converter?style=for-the-badge)](https://github.com/hiibrarahmad/Level_Converter/network/members)
 [![Last Commit](https://img.shields.io/github/last-commit/hiibrarahmad/Level_Converter?style=for-the-badge)](https://github.com/hiibrarahmad/Level_Converter/commits/main)
 [![Release Date](https://img.shields.io/github/release-date/hiibrarahmad/Level_Converter?style=for-the-badge)](https://github.com/hiibrarahmad/Level_Converter/releases)
+[![License](https://img.shields.io/github/license/hiibrarahmad/Level_Converter?style=for-the-badge)](LICENSE)
 
 
 
