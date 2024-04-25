@@ -6,7 +6,6 @@
 [![Contributors](https://img.shields.io/github/contributors/hiibrarahmad/Level_Converter?style=for-the-badge)](https://github.com/hiibrarahmad/Level_Converter/graphs/contributors)
 [![Documentation](https://img.shields.io/badge/documentation-yes-brightgreen?style=for-the-badge)](https://github.com/hiibrarahmad/Level_Converter/wiki)
 [![Open Issues](https://img.shields.io/github/issues/hiibrarahmad/Level_Converter?style=for-the-badge)](https://github.com/hiibrarahmad/Level_Converter/issues)
-[![Downloads](https://img.shields.io/github/downloads/hiibrarahmad/Level_Converter/total?style=for-the-badge)](https://github.com/hiibrarahmad/Level_Converter/releases)
 [![Stars](https://img.shields.io/github/stars/hiibrarahmad/Level_Converter?style=for-the-badge)](https://github.com/hiibrarahmad/Level_Converter/stargazers)
 [![Forks](https://img.shields.io/github/forks/hiibrarahmad/Level_Converter?style=for-the-badge)](https://github.com/hiibrarahmad/Level_Converter/network/members)
 [![Last Commit](https://img.shields.io/github/last-commit/hiibrarahmad/Level_Converter?style=for-the-badge)](https://github.com/hiibrarahmad/Level_Converter/commits/main)
