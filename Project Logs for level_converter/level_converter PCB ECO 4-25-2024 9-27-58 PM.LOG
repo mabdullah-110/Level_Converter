@@ -1,0 +1,127 @@
+Change Component Designator: OldDesignator=Q? NewDesignator=Q1
+Added Component: Designator=J1(SAMTEC_MTSW-105-22-S-S-260)
+Add component (AddParameter): Name = "Availability"; Value = "Unavailable"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MF"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MP"; Value = "MTSW-105-22-S-S-260"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Price"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=J2(SAMTEC_MTSW-105-22-S-S-260)
+Add component (AddParameter): Name = "Availability"; Value = "Unavailable"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MF"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MP"; Value = "MTSW-105-22-S-S-260"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Price"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=Q2(SOT95P240X111-3N)
+Add component (AddParameter): Name = "Availability"; Value = "Good"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Check_prices"; Value = "https://www.snapeda.com/parts/BSS138/ON%20Semiconductor/view-part/4794929/?ref=eda"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MF"; Value = "ON Semiconductor"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MP"; Value = "BSS138"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "SOT-23 ON Semiconductor"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Price"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Purchase-URL"; Value = "https://pricing.snapeda.com/search/part/BSS138/?ref=eda"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SnapEDA_Link"; Value = "https://www.snapeda.com/parts/BSS138/ON%20Semiconductor/view-part/4794929/?ref=snap"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=Q3(SOT95P240X111-3N)
+Add component (AddParameter): Name = "Availability"; Value = "Good"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Check_prices"; Value = "https://www.snapeda.com/parts/BSS138/ON%20Semiconductor/view-part/4794929/?ref=eda"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MF"; Value = "ON Semiconductor"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MP"; Value = "BSS138"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "SOT-23 ON Semiconductor"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Price"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Purchase-URL"; Value = "https://pricing.snapeda.com/search/part/BSS138/?ref=eda"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SnapEDA_Link"; Value = "https://www.snapeda.com/parts/BSS138/ON%20Semiconductor/view-part/4794929/?ref=snap"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=R1(RES_ERA8ARW103V)
+Add component (AddParameter): Name = "Availability"; Value = "Unavailable"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MF"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MP"; Value = "ERA8ARW103V"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Price"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=R2(RES_ERA8ARW103V)
+Add component (AddParameter): Name = "Availability"; Value = "Unavailable"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MF"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MP"; Value = "ERA8ARW103V"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Price"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=R3(RES_ERA8ARW103V)
+Add component (AddParameter): Name = "Availability"; Value = "Unavailable"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MF"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MP"; Value = "ERA8ARW103V"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Price"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=R4(RES_ERA8ARW103V)
+Add component (AddParameter): Name = "Availability"; Value = "Unavailable"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MF"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MP"; Value = "ERA8ARW103V"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Price"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=R5(RES_ERA8ARW103V)
+Add component (AddParameter): Name = "Availability"; Value = "Unavailable"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MF"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MP"; Value = "ERA8ARW103V"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Price"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "10k"; VariantName = "[No Variations]"
+Added Component: Designator=R6(RES_ERA8ARW103V)
+Add component (AddParameter): Name = "Availability"; Value = "Unavailable"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MF"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MP"; Value = "ERA8ARW103V"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Price"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "10k"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=GND Pin=J1-03
+Added Pin To Net: NetName=GND Pin=J2-03
+Added Net: Name=GND
+Added Pin To Net: NetName=HV1 Pin=J2-01
+Added Pin To Net: NetName=HV1 Pin=Q1-3
+Added Pin To Net: NetName=HV1 Pin=R6-1
+Added Net: Name=HV1
+Added Pin To Net: NetName=HV2 Pin=J2-02
+Added Pin To Net: NetName=HV2 Pin=Q2-3
+Added Pin To Net: NetName=HV2 Pin=R2-1
+Added Net: Name=HV2
+Added Pin To Net: NetName=HV3 Pin=J2-05
+Added Pin To Net: NetName=HV3 Pin=Q3-3
+Added Pin To Net: NetName=HV3 Pin=R4-1
+Added Net: Name=HV3
+Added Pin To Net: NetName=HV Pin=J2-04
+Added Pin To Net: NetName=HV Pin=R2-2
+Added Pin To Net: NetName=HV Pin=R4-2
+Added Pin To Net: NetName=HV Pin=R6-2
+Added Net: Name=HV
+Added Pin To Net: NetName=LV1 Pin=J1-05
+Added Pin To Net: NetName=LV1 Pin=Q1-2
+Added Pin To Net: NetName=LV1 Pin=R5-1
+Added Net: Name=LV1
+Added Pin To Net: NetName=LV2 Pin=J1-04
+Added Pin To Net: NetName=LV2 Pin=Q2-2
+Added Pin To Net: NetName=LV2 Pin=R1-1
+Added Net: Name=LV2
+Added Pin To Net: NetName=LV3 Pin=J1-01
+Added Pin To Net: NetName=LV3 Pin=Q3-2
+Added Pin To Net: NetName=LV3 Pin=R3-1
+Added Net: Name=LV3
+Added Pin To Net: NetName=LV Pin=J1-02
+Added Pin To Net: NetName=LV Pin=Q1-1
+Added Pin To Net: NetName=LV Pin=Q2-1
+Added Pin To Net: NetName=LV Pin=Q3-1
+Added Pin To Net: NetName=LV Pin=R1-2
+Added Pin To Net: NetName=LV Pin=R3-2
+Added Pin To Net: NetName=LV Pin=R5-2
+Added Net: Name=LV
+Added Member To Class: ClassName=level_converter Member=Component J1 High Voltage
+Added Member To Class: ClassName=level_converter Member=Component J2 Low Voltage
+Added Member To Class: ClassName=level_converter Member=Component Q2 BSS138
+Added Member To Class: ClassName=level_converter Member=Component Q3 BSS138
+Added Member To Class: ClassName=level_converter Member=Component R1 10k
+Added Member To Class: ClassName=level_converter Member=Component R2 10k
+Added Member To Class: ClassName=level_converter Member=Component R3 10k
+Added Member To Class: ClassName=level_converter Member=Component R4 10k
+Added Member To Class: ClassName=level_converter Member=Component R5 ERA8ARW103V
+Added Member To Class: ClassName=level_converter Member=Component R6 ERA8ARW103V
