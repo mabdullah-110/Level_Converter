@@ -1,5 +1,19 @@
 # Bi-Directional Logic Level Converter Repository :electric_plug:
 
+
+[![License](https://img.shields.io/github/license/hiibrarahmad/Level_Converter?style=for-the-badge)](LICENSE)
+[![Latest Release](https://img.shields.io/github/v/release/hiibrarahmad/Level_Converter?style=for-the-badge)](https://github.com/hiibrarahmad/Level_Converter/releases)
+[![Contributors](https://img.shields.io/github/contributors/hiibrarahmad/Level_Converter?style=for-the-badge)](https://github.com/hiibrarahmad/Level_Converter/graphs/contributors)
+[![Documentation](https://img.shields.io/badge/documentation-yes-brightgreen?style=for-the-badge)](https://github.com/hiibrarahmad/Level_Converter/wiki)
+[![Open Issues](https://img.shields.io/github/issues/hiibrarahmad/Level_Converter?style=for-the-badge)](https://github.com/hiibrarahmad/Level_Converter/issues)
+[![Downloads](https://img.shields.io/github/downloads/hiibrarahmad/Level_Converter/total?style=for-the-badge)](https://github.com/hiibrarahmad/Level_Converter/releases)
+[![Stars](https://img.shields.io/github/stars/hiibrarahmad/Level_Converter?style=for-the-badge)](https://github.com/hiibrarahmad/Level_Converter/stargazers)
+[![Forks](https://img.shields.io/github/forks/hiibrarahmad/Level_Converter?style=for-the-badge)](https://github.com/hiibrarahmad/Level_Converter/network/members)
+[![Last Commit](https://img.shields.io/github/last-commit/hiibrarahmad/Level_Converter?style=for-the-badge)](https://github.com/hiibrarahmad/Level_Converter/commits/main)
+[![Release Date](https://img.shields.io/github/release-date/hiibrarahmad/Level_Converter?style=for-the-badge)](https://github.com/hiibrarahmad/Level_Converter/releases)
+
+
+
 ## Overview :mag_right:
 When bridging the gap between 3.3V and 5V systems, the **Bi-Directional Logic Level Converter** offers a seamless solution. This compact device not only steps down 5V signals to 3.3V but also steps up 3.3V to 5V simultaneously. It's versatile, accommodating 2.8V and 1.8V devices as well, making it an asset for various electronic projects.
 
