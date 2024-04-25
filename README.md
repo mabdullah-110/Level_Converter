@@ -4,6 +4,7 @@
 When bridging the gap between 3.3V and 5V systems, the **Bi-Directional Logic Level Converter** offers a seamless solution. This compact device not only steps down 5V signals to 3.3V but also steps up 3.3V to 5V simultaneously. It's versatile, accommodating 2.8V and 1.8V devices as well, making it an asset for various electronic projects.
 
 What distinguishes this level converter is its capability to set high and low voltages and safely step up and down between them on the same channel. Each converter supports up to 5 pins on both the high and low sides, with three inputs and three outputs provided for each side.
+![Detail View](https://github.com/hiibrarahmad/Level_Converter/blob/main/pic/Screenshot%202024-04-25%20233035.png)
 
 ## Features :sparkles:
 - **Bi-directional voltage conversion** between 5V, 3.3V, 2.8V, and 1.8V.
